@@ -1,0 +1,6 @@
+org/jana/TurnOnBulb.class
+org/jana/Bulb.class
+org/jana/State.class
+org/jana/App.class
+org/jana/Switch.class
+org/jana/Command.class
