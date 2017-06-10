@@ -2,8 +2,6 @@ package org.jana;
 
 
 import org.jana.behavior.FlyWithRocket;
-import org.jana.behavior.FlyWithWings;
-import org.jana.behavior.LoudQuack;
 import org.jana.duck.ModelDuck;
 import org.jana.duck.RedHeadDuck;
 import org.jana.duck.RubberDuck;
