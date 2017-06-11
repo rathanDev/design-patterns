@@ -1,0 +1,7 @@
+
+Hides the complexities of the system
+by providing a simpler interface.
+
+or
+
+Provides a unified interface to a set of interfaces.
