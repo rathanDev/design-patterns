@@ -1,11 +1,11 @@
-/**
+/*
  * Challenge urself
  */
 package org.jana;
 
 public class Switch {
 
-    Command command;
+    private Command command;
 
     public void setCommand(Command command) {
         this.command = command;

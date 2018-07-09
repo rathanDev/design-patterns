@@ -1,6 +1,6 @@
 package org.jana;
 
-/**
+/*
  * Challenge urself
  */
 public enum State {
@@ -9,11 +9,12 @@ public enum State {
 
     private int stateInt;
 
+    State(int stateInt) {
+        this.stateInt = stateInt;
+    }
+
     public int getStateInt() {
         return stateInt;
     }
 
-    State(int stateInt) {
-        this.stateInt = stateInt;
-    }
 }

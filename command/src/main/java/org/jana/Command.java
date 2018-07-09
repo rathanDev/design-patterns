@@ -1,6 +1,6 @@
 package org.jana;
 
-/**
+/*
  * Challenge urself
  */
 public interface Command {

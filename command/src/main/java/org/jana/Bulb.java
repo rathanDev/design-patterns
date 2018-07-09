@@ -1,4 +1,4 @@
-/**
+/*
  * Challenge urself
  */
 package org.jana;
@@ -7,11 +7,11 @@ public class Bulb {
 
     private State state;
 
-    public Bulb() {
+    Bulb() {
         this(State.OFF);
     }
 
-    public Bulb(State state) {
+    Bulb(State state) {
         this.state = state;
     }
 
