@@ -5,9 +5,9 @@ package org.jana;
 
 public class TurkeyDuckAdapter extends Duck {
 
-    Turkey turkey;
+    private Turkey turkey;
 
-    public TurkeyDuckAdapter(Turkey turkey) {
+    TurkeyDuckAdapter(Turkey turkey) {
         this.turkey = turkey;
     }
 
