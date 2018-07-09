@@ -1,4 +1,4 @@
-/**
+/*
  * Challenge urself
  */
 package org.jana;
@@ -35,7 +35,7 @@ public class Computer {
         private boolean hasBluetooth;
         private boolean hasWifi;
 
-        public Builder(int hdd, int ram) {
+        Builder(int hdd, int ram) {
             this.hdd = hdd;
             this.ram = ram;
         }
