@@ -1,6 +1,4 @@
-
-*/.idea
-*/target
-*/strategy.iml
+.idea/
+target/
 
 
