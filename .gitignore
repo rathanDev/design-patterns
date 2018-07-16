@@ -1,4 +1,7 @@
 .idea/
+*/.idea/
+
 target/
+*/target/
 
 
