@@ -1,7 +1,6 @@
 package org.jana.head;
 
 
-import org.jana.head.Beverage;
 import org.jana.head.beverage.DarkRoast;
 import org.jana.head.beverage.Expresso;
 import org.jana.head.decorator.Mocha;

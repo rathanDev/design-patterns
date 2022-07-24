@@ -1,0 +1,5 @@
+
+Open / Closed Principle
+Single Responsibility Principle
+
+
