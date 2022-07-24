@@ -1,10 +1,10 @@
 /**
  * Challenge urself
  */
-package org.jana.duck;
+package org.jana.head.duck;
 
-import org.jana.behavior.FlyWithWings;
-import org.jana.behavior.LoudQuack;
+import org.jana.head.behavior.FlyWithWings;
+import org.jana.head.behavior.LoudQuack;
 
 public class RedHeadDuck extends Duck {
 

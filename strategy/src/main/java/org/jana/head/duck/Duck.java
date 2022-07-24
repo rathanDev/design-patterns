@@ -1,10 +1,10 @@
 /**
  * Challenge urself
  */
-package org.jana.duck;
+package org.jana.head.duck;
 
-import org.jana.behavior.FlyBehavior;
-import org.jana.behavior.QuackBehavior;
+import org.jana.head.behavior.FlyBehavior;
+import org.jana.head.behavior.QuackBehavior;
 
 public abstract class Duck {
 

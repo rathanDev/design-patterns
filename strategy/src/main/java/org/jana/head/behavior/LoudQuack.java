@@ -1,7 +1,7 @@
 /**
  * Challenge urself
  */
-package org.jana.behavior;
+package org.jana.head.behavior;
 
 public class LoudQuack implements QuackBehavior {
 

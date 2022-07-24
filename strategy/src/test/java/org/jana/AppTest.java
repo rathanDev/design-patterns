@@ -1,10 +1,10 @@
 package org.jana;
 
 
-import org.jana.behavior.FlyWithRocket;
-import org.jana.duck.ModelDuck;
-import org.jana.duck.RedHeadDuck;
-import org.jana.duck.RubberDuck;
+import org.jana.head.behavior.FlyWithRocket;
+import org.jana.head.duck.ModelDuck;
+import org.jana.head.duck.RedHeadDuck;
+import org.jana.head.duck.RubberDuck;
 import org.junit.Test;
 
 public class AppTest {

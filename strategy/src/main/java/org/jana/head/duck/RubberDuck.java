@@ -1,10 +1,10 @@
 /**
  * Challenge urself
  */
-package org.jana.duck;
+package org.jana.head.duck;
 
-import org.jana.behavior.FlyNoWay;
-import org.jana.behavior.SqueakQuack;
+import org.jana.head.behavior.FlyNoWay;
+import org.jana.head.behavior.SqueakQuack;
 
 public class RubberDuck extends Duck {
 
