@@ -1,9 +1,9 @@
 /**
  * Challenge urself
  */
-package org.jana.beverage;
+package org.jana.head.beverage;
 
-import org.jana.Beverage;
+import org.jana.head.Beverage;
 
 public class HouseBlend extends Beverage {
 

@@ -1,10 +1,11 @@
-package org.jana;
+package org.jana.head;
 
 
-import org.jana.beverage.DarkRoast;
-import org.jana.beverage.Expresso;
-import org.jana.decorator.Mocha;
-import org.jana.decorator.Whip;
+import org.jana.head.Beverage;
+import org.jana.head.beverage.DarkRoast;
+import org.jana.head.beverage.Expresso;
+import org.jana.head.decorator.Mocha;
+import org.jana.head.decorator.Whip;
 import org.junit.Test;
 
 public class AppTest {

@@ -1,10 +1,10 @@
 /**
  * Challenge urself
  */
-package org.jana.decorator;
+package org.jana.head.decorator;
 
-import org.jana.Beverage;
-import org.jana.CondimentDecorator;
+import org.jana.head.Beverage;
+import org.jana.head.CondimentDecorator;
 
 public class Whip extends CondimentDecorator {
 

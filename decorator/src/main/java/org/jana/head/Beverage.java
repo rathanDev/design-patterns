@@ -1,7 +1,7 @@
 /**
  * Challenge urself
  */
-package org.jana;
+package org.jana.head;
 
 public abstract class Beverage {
 
